@@ -1,0 +1,13 @@
+{
+  "name": "minio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prarthavipatnekar/minio-integration.git",
+  "author": "ishika.patnekar@gmail.com",
+  "license": "true",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
